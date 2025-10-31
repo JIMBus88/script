@@ -1,1 +1,10 @@
-Hello World
+Texto de prueba para verificación de archivo.
+Línea 1 - OK
+Línea 2 - OK
+Línea 3 - OK
+
+
+Nombre: Proyecto de Prueba
+Versión: 1.0
+Descripción: Archivo para testing
+Estado: Activo
